@@ -1,4 +1,4 @@
-#For menu_links
+#For   category menu_links
 from .models import Category
 
 def menu_links(request):
